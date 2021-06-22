@@ -30,8 +30,5 @@ You should see the hello world response at [localhost:5000](http://localhost:500
 
 # Inspiration
 
-- Google Distroless Python Example
-  - repo: https://github.com/GoogleContainerTools/distroless/blob/main/examples/python3-requirements/Dockerfile
-- How to Harden Your Containers With Distroless Docker Images by [@bharatmicrosystems](https://github.com/bharatmicrosystems)
-  - article: https://betterprogramming.pub/how-to-harden-your-containers-with-distroless-docker-images-c2abd7c71fdb
-	- repo: https://github.com/bharatmicrosystems/flask-hello-world
+- [Google Distroless Python Example](https://github.com/GoogleContainerTools/distroless/blob/main/examples/python3-requirements/Dockerfile)
+- [How to Harden Your Containers With Distroless Docker Images](https://betterprogramming.pub/how-to-harden-your-containers-with-distroless-docker-images-c2abd7c71fdb) by [@bharatmicrosystems](https://github.com/bharatmicrosystems)
