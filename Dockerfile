@@ -1,3 +1,6 @@
+# Example derived from:
+# https://github.com/GoogleContainerTools/distroless/blob/main/examples/python3-requirements/Dockerfile
+#
 # Build a virtualenv using the appropriate Debian release
 # * Install python3-venv for the built-in Python3 venv module (not installed by default)
 # * Install gcc libpython3-dev to compile C Python modules
